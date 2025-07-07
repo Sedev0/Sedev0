@@ -1,4 +1,4 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝐒𝐞𝐢𝐟 𝐀𝐦𝐫 (𝐒𝐞𝐝𝐞𝐯)
+#  𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝐒𝐞𝐢𝐟 𝐀𝐦𝐫 (𝐒𝐞𝐝𝐞𝐯)
 
 [![](https://img.shields.io/badge/-@Sedev0-%23181717?style=flat-square&logo=github)](https://github.com/Sedev0)
 
@@ -8,9 +8,12 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Nano](https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
